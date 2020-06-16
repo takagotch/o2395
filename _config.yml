@@ -1,8 +1,8 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
+title: TKTV | Vanilla
 description: "A responsive Jekyll theme for dental clinics."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
+baseurl: "/page89" # the subpath of your site, e.g. /blog
+url: "https://takagotch.github.io/page89" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
@@ -63,3 +63,6 @@ exclude: [
 # Theme Settings
 analytics: 
 google_verification:
+
+
+
