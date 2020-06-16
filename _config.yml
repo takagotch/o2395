@@ -2,7 +2,7 @@
 title: TKTV | Vanilla
 description: "A responsive Jekyll theme for dental clinics."
 baseurl: "/page89" # the subpath of your site, e.g. /blog
-url: "https://takagotch.github.io/page89" # the name of your domain
+url: "https://takagotch.github.io" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
