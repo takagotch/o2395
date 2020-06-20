@@ -7,7 +7,7 @@ logo_url: svg/min/logo.svg
 
 # Hero
 hero: 
-    hero_img: https://takagotch.github.io/page89/img/hero.jpg
+    hero_img: hero.jpg
     hero_title: DentistSmile
     hero_description: A responsive Jekyll theme for dental clinics.
 
